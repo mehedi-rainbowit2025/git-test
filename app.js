@@ -1,5 +1,5 @@
 const members = [
-  "Sabbir",
+  "Sabbir Bro",
   "Atiqur Rahaman",
   "Yeamin Khan",
   "Mehedi",
